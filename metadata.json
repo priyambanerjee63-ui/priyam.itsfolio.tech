@@ -1,0 +1,6 @@
+{
+  "name": "tsfolio",
+  "description": "Developer portfolio generator and hosting platform with easy customization, itsfolio.tech generated share links, and themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
